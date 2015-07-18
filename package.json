@@ -4,7 +4,7 @@
   "description": "Detect some modifier keys are pressed",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard && node test.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/uiureo/with-modifier-key",
   "devDependencies": {
-    "standard": "^5.0.0-2"
+    "jsdom": "^3.1.2",
+    "object-assign": "^3.0.0",
+    "standard": "^5.0.0-2",
+    "tape": "^4.0.0"
   }
 }
