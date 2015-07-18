@@ -1,0 +1,27 @@
+{
+  "name": "with-modifier-key",
+  "version": "1.0.0",
+  "description": "Detect some modifier keys are pressed",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uiureo/with-modifier-key.git"
+  },
+  "keywords": [
+    "browser",
+    "events",
+    "keyboard"
+  ],
+  "author": "Kazato Sugimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uiureo/with-modifier-key/issues"
+  },
+  "homepage": "https://github.com/uiureo/with-modifier-key",
+  "devDependencies": {
+    "standard": "^5.0.0-2"
+  }
+}
