@@ -3,6 +3,8 @@
 
 Detect some modifier keys are pressed.
 
+For example, you can use this to detect an user is going to open a link in new tab or window. 
+
 ``` javascript
 var withModifierKey = require('with-modifier-key')
 
